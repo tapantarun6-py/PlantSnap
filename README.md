@@ -27,3 +27,19 @@ Flask
 HTML, CSS
 
 Hugging Face Spaces (Docker)
+
+📁 Project Structure
+PlantSnap/
+│── app.py
+│── predict.py
+│── plant_model.h5
+│── requirements.txt
+│── Dockerfile
+│── templates/
+│     └── index.html
+│── static/
+      └── uploads/
+
+🤝 Contributions
+
+Feel free to fork and improve it!
